@@ -1,0 +1,17 @@
+pip
+aiohttp
+fastapi
+python-multipart
+uvicorn
+pydantic
+pymupdf           # for PDF handling
+python-docx       # for .docx files
+pandas            # for .xlsx handling
+python-pptx       # for .pptx files
+tiktoken
+pytesseract
+pinecone[asyncio]
+langchain-google-genai
+langchain-community
+langchain-core
+logtail-python

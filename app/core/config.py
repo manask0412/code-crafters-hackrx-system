@@ -1,0 +1,7 @@
+import os
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
+API_AUTH_KEY = os.getenv("API_AUTH_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+DENSE_INDEX_HOST_URL = os.getenv("DENSE_INDEX_HOST_URL")
+JSON_FILE_PATH = "data/docs.json"
