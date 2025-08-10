@@ -34,11 +34,12 @@
 
 ---
 
-## **📊 Data Flow Diagram**
+## 📊 Data Flow Diagram
 
-![Data Flow Diagram](diagram.png)
+<p align="center">
+  <img src="diagram.png" alt="Data Flow Diagram" width="600"/>
+</p>
 
----
 
 ## **🚀 Getting Started**
 
