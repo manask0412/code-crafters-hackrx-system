@@ -19,7 +19,7 @@
 * **Backend:** FastAPI
 * **LLM:** Gemini 2.5 Flash
 * **Vector Store:** Pinecone
-* **Embeddings:** Pinecone Embeddings
+* **Embedding model:** llama-text-embed-v2
 * **Database:** Pinecone Vector DB
 
 ---
@@ -61,8 +61,10 @@ Create a `.env` file:
 
 ```env
 PINECONE_API_KEY=your_pinecone_key
-OPENAI_API_KEY=your_openai_key
-GEMINI_API_KEY=your_gemini_key
+PINECONE_INDEX_NAME=your_pinecone_index_name
+API_AUTH_KEY=your_custom_api_auth_key
+GOOGLE_API_KEY=your_google_api_key
+DENSE_INDEX_HOST_URL=your_dense_index_host_url
 ```
 
 ### **4. Run the application**
@@ -76,7 +78,7 @@ uvicorn main:app --reload
 
 ## **📈 Future Enhancements**
 
-* Multi-modal support (images, scanned docs, OCR).
+* Multi-modal support (images, scanned docs).
 * Real-time compliance gap detection.
 * Multi-language document processing.
 * Deployment-ready containerized version.
