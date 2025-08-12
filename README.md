@@ -86,7 +86,12 @@ uvicorn main:app --reload
 
 ---
 
-## **🏆 Achievements**
+## Contributors
 
-* 2nd Place – ML Hackathon, IIT Bhubaneswar (Deepfake Image Classifier).
-* 2nd Place – AI Project Competition, BPUT Carnival (Crop Disease Detection).
+| Name             | Linkedin Profile                                               |
+| ---------------- | -------------------------------------------------------------- |
+| Anisha Swain | [anishaswain](https://www.linkedin.com/in/anisha-swain-81594a360) |
+| Anshuman Ray | [anshumanray](https://www.linkedin.com/in/anshuman-ray-266060268) |
+| Manas Kumar Jena | [manaskumar](https://www.linkedin.com/in/manas-kumar-jena) |
+| Prachi Sahoo | [prachisahoo](https://www.linkedin.com/in/prachi-sahoo-a69091374) |
+| Shubham Kumar Sarangi | [shubhamsarangi](https://www.linkedin.com/in/shubham-sarangi-033413329) |
